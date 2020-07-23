@@ -1,5 +1,6 @@
 LightingFastRom Devices
 -----------------------
+### Tablets
 | Device | Model | Code | SOC | ConectType |
 | ------ |------ | ------ | ------ | ------ |
 | Samsung Galaxy Tab 4 10.1 | SM-T530/SM-T530NU | matissewifi | MSM8226 | WiFi-Only |
