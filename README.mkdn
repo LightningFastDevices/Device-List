@@ -10,4 +10,3 @@ LightingFastRom Devices
 | Samsung Galaxy Tab 4 8.0 | SM-T335 | milletlte | MSM8226 | WiFi/LTE |
 | Samsung Galaxy Tab 4 8.0 | SM-T331 | millet3g | MSM8226 | WiFi/3G |
 | Samsung Galaxy Tab E 9.6 | SM-T560/SM-T560NU | matissewifi | MSM8916 | WiFi-Only  |
-| Nexux 7 ? | ? | ? | ? | ? | WiFi-Only |
