@@ -1,10 +1,11 @@
 LightingFastRom Devices
 -----------------------
 ### Phones
-
+| Device | Model | Codename | SOC | Maintainer |
+| Samsung Galaxy Grand Prime | SM-G530 | fortuna3g | MSM8226 | TipzTeam |
 
 ### Tablets
-| Device | Model | Code | SOC | ConectType | Maintainer
+| Device | Model | Codename | SOC | ConectType | Maintainer |
 | ------ |------ | ------ | ------ | ------ | --------- |
 | Samsung Galaxy Tab 4 10.1 | SM-T530/SM-T530NU | matissewifi | MSM8226 | WiFi-Only | DJABHipHop |
 | Samsung Galaxy Tab 4 10.1 | SM-T535 | matisselte | MSM8226 | WiFi-Only | DJABHipHop |
