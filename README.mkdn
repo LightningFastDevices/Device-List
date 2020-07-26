@@ -2,7 +2,8 @@ LightingFastRom Devices
 -----------------------
 ### Phones
 | Device | Model | Codename | SOC | Maintainer |
-| Samsung Galaxy Grand Prime | SM-G530 | fortuna3g | MSM8226 | TipzTeam |
+| ------ |------ | ------ | ------ | --------- |
+| Samsung Galaxy Grand Prime | SM-G530 | fortuna3g | MSM8916 | TipzTeam |
 
 ### Tablets
 | Device | Model | Codename | SOC | ConectType | Maintainer |
