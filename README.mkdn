@@ -1,13 +1,13 @@
 LightingFastRom Devices
 -----------------------
 ### Phones
-| Device | Model | Codename | SOC | Maintainer | Version | Status |
+| Device | Model | Codename | SOC | Maintainer | Active Version | Status |
 | ------ |------ | ------ | ------ | --------- | ------- | ------ |
 | Lenovo PHAB Plus | PB1-770M | PB1770M | MSM8939 | TipzTeam | 16.0, 17.1 | Waiting |
 | Samsung Galaxy Grand Prime | SM-G530 | fortuna3g | MSM8916 | TipzTeam | 17.1 | Waiting |
 
 ### Tablets
-| Device | Model | Codename | SOC | ConectType | Maintainer | Version | Status |
+| Device | Model | Codename | SOC | ConectType | Maintainer | Active Version | Status |
 | ------ |------ | ------ | ------ | ------ | --------- | ------- | ------ |
 | Samsung Galaxy Tab 4 10.1 | SM-T530/SM-T530NU | matissewifi | MSM8226 | WiFi-Only | DJABHipHop | 17.1 | Active |
 | Samsung Galaxy Tab 4 10.1 | SM-T535 | matisselte | MSM8226 | WiFi-Only | DJABHipHop | 17.1 | Active |
