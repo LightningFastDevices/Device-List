@@ -1,17 +1,17 @@
 LightingFastRom Devices
 -----------------------
 ### Phones
-| Device | Model | Codename | SOC | Maintainer |
-| ------ |------ | ------ | ------ | --------- |
-| Samsung Galaxy Grand Prime | SM-G530 | fortuna3g | MSM8916 | TipzTeam |
+| Device | Model | Codename | SOC | Maintainer | Version |
+| ------ |------ | ------ | ------ | --------- | ------- |
+| Samsung Galaxy Grand Prime | SM-G530 | fortuna3g | MSM8916 | TipzTeam | 17.1 |
 
 ### Tablets
-| Device | Model | Codename | SOC | ConectType | Maintainer |
-| ------ |------ | ------ | ------ | ------ | --------- |
-| Samsung Galaxy Tab 4 10.1 | SM-T530/SM-T530NU | matissewifi | MSM8226 | WiFi-Only | DJABHipHop |
-| Samsung Galaxy Tab 4 10.1 | SM-T535 | matisselte | MSM8226 | WiFi-Only | DJABHipHop |
-| Samsung Galaxy Tab 4 10.1 | SM-T531 | matisse3g | MSM8226 | WiFi/3G | DJABHipHop |
-| Samsung Galaxy Tab 4 8.0 | SM-T330/SM-T330NU | milletwifi | MSM8226 | WiFi-Only | DJABHipHop |
-| Samsung Galaxy Tab 4 8.0 | SM-T335 | milletlte | MSM8226 | WiFi/LTE | DJABHipHop |
-| Samsung Galaxy Tab 4 8.0 | SM-T331 | millet3g | MSM8226 | WiFi/3G | DJABHipHop |
-| Samsung Galaxy Tab E 9.6 | SM-T560/SM-T560NU | matissewifi | MSM8916 | WiFi-Only  | DJABHipHop |
+| Device | Model | Codename | SOC | ConectType | Maintainer | Version |
+| ------ |------ | ------ | ------ | ------ | --------- | ------- |
+| Samsung Galaxy Tab 4 10.1 | SM-T530/SM-T530NU | matissewifi | MSM8226 | WiFi-Only | DJABHipHop | 17.1 |
+| Samsung Galaxy Tab 4 10.1 | SM-T535 | matisselte | MSM8226 | WiFi-Only | DJABHipHop | 17.1 |
+| Samsung Galaxy Tab 4 10.1 | SM-T531 | matisse3g | MSM8226 | WiFi/3G | DJABHipHop | 17.1 |
+| Samsung Galaxy Tab 4 8.0 | SM-T330/SM-T330NU | milletwifi | MSM8226 | WiFi-Only | DJABHipHop | 17.1 |
+| Samsung Galaxy Tab 4 8.0 | SM-T335 | milletlte | MSM8226 | WiFi/LTE | DJABHipHop | 17.1 |
+| Samsung Galaxy Tab 4 8.0 | SM-T331 | millet3g | MSM8226 | WiFi/3G | DJABHipHop | 17.1 |
+| Samsung Galaxy Tab E 9.6 | SM-T560/SM-T560NU | matissewifi | MSM8916 | WiFi-Only  | DJABHipHop | 17.1 |
