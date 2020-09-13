@@ -3,7 +3,7 @@ LightingFastRom Devices
 ### Phones
 | Device | Model | Codename | SOC | Network | Maintainer | Active Version | Status |
 | ------ |------ | ------ | ------ | ------ | --------- | ------- | ------ |
-| Lenovo PHAB Plus | PB1-770M | PB1770M | MSM8939 | WiFi/LTE | TipzTeam | 16.0, 17.1 | Waiting |
+| Lenovo PHAB Plus | PB1-770M | PB1770M | MSM8939 | WiFi/LTE | TipzTeam | 17.1 | Waiting |
 | Samsung Galaxy Grand Prime | SM-G530 | fortuna3g | MSM8916 | WiFi/LTE | TipzTeam | 17.1 | Waiting |
 
 ### Tablets
